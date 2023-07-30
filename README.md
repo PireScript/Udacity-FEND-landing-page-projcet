@@ -4,12 +4,12 @@ This is a landing page project for the Udacity Front-End Web Development Nanodeg
 
 ## Table of Contents
 
-- [Instructions](## Instructions)
-- [Dependencies](## Dependencies)
-- [Getting Started](## Getting Started)
-- [Features](## Features)
-- [How to Use](## How to Use)
-- [Contributing](## Contributing)
+- [Instructions](# Instructions)
+- [Dependencies](# Dependencies)
+- [Getting Started](# Getting Started)
+- [Features](# Features)
+- [How to Use](# How to Use)
+- [Contributing](# Contributing)
 
 ## Instructions
 
