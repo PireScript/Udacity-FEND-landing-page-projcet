@@ -50,7 +50,7 @@ main {
     margin: 10vh 1em 10vh;
 }
 
-.main-hero {
+.main--hero {
     min-height: 40vh;
     padding-top: 3em;
 }
@@ -87,6 +87,10 @@ section {
     color: #fff;
     transition: ease 0.3s all;
 }
+
+a.active {
+    background-color: #a9acb0;
+  }  
 
 /* Header Styles */
 .page__header {
