@@ -1,15 +1,15 @@
 # Landing Page Project
 
-This is a landing page project for the Udacity Front-End Web Developer Nanodegree. The project aims to demonstrate proficiency in manipulating the DOM, creating a dynamic navigation menu, and adding interactivity to a webpage using JavaScript.
+This is a landing page project for the Udacity Front-End Web Development Nanodegree. The project aims to demonstrate proficiency in manipulating the DOM, creating a dynamic navigation menu, and adding interactivity to a webpage using JavaScript.
 
 ## Table of Contents
 
-- Instructions
-- Dependencies
-- Getting Started
-- Features
-- How to Use
-- Contributing
+- [Instructions](## Instructions)
+- [Dependencies](## Dependencies)
+- [Getting Started](## Getting Started)
+- [Features](## Features)
+- [How to Use](## How to Use)
+- [Contributing](## Contributing)
 
 ## Instructions
 
@@ -33,9 +33,9 @@ To get started, download or clone the project repository from GitHub.
 
 ## How to Use
 
-1. Open the index.html file in your preferred web browser.
+1. Open the **index.html** file in your preferred web browser.
 2. Scroll through the page or click on the navigation items to see the active section highlighting and smooth scrolling in action.
 
 ## Contributing
 
-This project is part of the Udacity Front-End Web Developer Nanodegree, and contributions are not expected.
+This project is part of the Udacity Front-End Web Development Nanodegree, and contributions are not expected.
